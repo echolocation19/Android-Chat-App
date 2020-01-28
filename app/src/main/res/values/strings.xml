@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="nameCreateAcct">Name</string>
+    <string name="emailCreateAcct">Email</string>
+    <string name="passwordCreateAcct">Password</string>
+    <string name="createAcctButton">Create Account</string>
+    <string name="loginButton">Login</string>
+    <string name="welcomeTitle">Chat App</string>
+    <string name="welcomeCardView">Find new friends here</string>
+    <string name="getStartedButton">Get Started</string>
+    <string name="confirmPasswordCreateAcct">Confirm Password</string>
+    <string name="usernameMessage">username</string>
+    <string name="textMessage">Message</string>
+    <string name="sendMessageButton">Send</string>
+    <string name="text_textView">username</string>
+    <string name="nameTextView">message</string>
+    <string name="item_menu_signout">Sign Out</string>
+</resources>
